@@ -1,6 +1,6 @@
 describe('countAllPaarl', function(){
 
-    it('returns the number of registration numbers in the string for Paarl', function(){
+    it('returns the number of registrations numbers in the string for Paarl', function(){
         assert.equal(1,countAllPaarl('CY 986, CJ 876, MP 123'));
     });
     it('returns the number of registration numbers in the string for Paarl', function(){

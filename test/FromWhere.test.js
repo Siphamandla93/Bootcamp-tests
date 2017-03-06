@@ -1,6 +1,6 @@
 describe('The FromWhere function', function(){
 
-    it('returns the town the car is from', function(){
+    it('returns the towns the car is from', function(){
         assert.equal('CJ',  FromWhere('Paarl'));
     });
     it('returns the town the car is from', function(){

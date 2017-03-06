@@ -1,6 +1,6 @@
 describe('The transportFee function', function(){
 
-    it('Show different transport fees', function(){
+    it('Show different transports fees', function(){
         assert.equal('R10', transportFee('afternoon'));
     });
     it('Show different transport fees', function(){

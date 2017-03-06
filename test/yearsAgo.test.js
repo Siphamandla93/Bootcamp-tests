@@ -1,6 +1,6 @@
 describe('The yearsAgo function', function(){
 
-    it('getFullYear', function(){
+    it('getFullYears', function(){
         assert.equal(8, yearsAgo('2009'));
     });
     it('getFullYear', function(){

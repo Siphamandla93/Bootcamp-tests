@@ -1,6 +1,6 @@
 describe('The regCheck function', function(){
 
-    it('check the registration numbers', function(){
+    it('check the registration numbers of', function(){
         assert.equal(true ,regCheck('DV 23 LP GP', 'GP'));
     });
     it('check the registration numbers', function(){

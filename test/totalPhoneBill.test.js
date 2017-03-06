@@ -1,6 +1,6 @@
 describe('The totalPhoneBill function', function(){
 
-    it('count total bill', function(){
+    it('count total bills', function(){
 
         assert.equal('R6.15', totalPhoneBill('call, sms, call,sms sms'));
         assert.equal('R5.50', totalPhoneBill('call, call'));

@@ -1,6 +1,6 @@
 describe('The isFromBellville', function(){
 
-    it('it should return all from Bellville', function(){
+    it('it should returns all from Bellville', function(){
         assert.equal(true, isFromBellville('CY'));
     });
     it('it should return all from Bellville', function(){

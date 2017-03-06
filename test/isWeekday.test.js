@@ -1,6 +1,6 @@
 describe('The isWeekday', function(){
 
-    it('Return weekday', function(){
+    it('Returns weekday', function(){
         assert.equal(true ,isWeekday('D'));
     });
     it('Return weekday', function(){
